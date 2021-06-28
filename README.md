@@ -1,4 +1,8 @@
-# Just for my lecture
+# To minimize coco dataset
+It is just for my lecture.
+
+You can get the minimized version of coco dataset also insperation about COCO dataset.
+
 강의용 파일입니다.
 
 코코 데이터셋이 너무 크니 미니 버전을 올려놓습니다.
